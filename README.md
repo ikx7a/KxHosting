@@ -1,9 +1,10 @@
 <h1 align="center">
  Kx Hosting
 </h1>
-
 <hr>
+
 All Screts Are Given Below
+
 
 `GIT_EMAIL` = Your Github Account Email
 
