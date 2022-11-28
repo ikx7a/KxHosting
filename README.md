@@ -1,2 +1,9 @@
-# KxHosting
-Hosting Is Free Hosting Server To Deploy Telegram Bot Without Credit Card With Unlimited Hours This Server Is Created
+All Screts Are Given Below
+
+`GIT_EMAIL` = Your Github Account Email
+
+`GIT_REPO` = Your Repo Link Make Sure To Start With github.com/
+
+`GIT_TOKEN` = Your Github Token
+
+`GIT_NAME` = Your Github User Name
